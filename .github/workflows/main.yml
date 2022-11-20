@@ -22,6 +22,7 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-        - name: generate-snake-game-from-github-contribution-grid
-          uses: Platane/snk
+         - name: generate-snake-game-from-github-contribution-grid
+           uses: Platane/snk@v2.1.0
+
 
